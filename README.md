@@ -45,7 +45,7 @@
 <div>
   <h3>📱 Connect with me:</h3><br>
     <a href="mailto:mark.taborosi@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/marktaborosi/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/mark-taborosi/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://stackoverflow.com/users/5666755/mark"><img src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=F58025&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
     <a href="https://www.instagram.com/marktaborosi"><img src="https://img.shields.io/static/v1?label=&message=Personal%20Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram"></a>
 </div>
