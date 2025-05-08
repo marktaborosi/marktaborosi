@@ -17,7 +17,7 @@
 <div>
   <h3>🎯 Hobbies:</h3>
   <p>• 🏋️‍♂️ Bodybuilding and fitness</p>
-  <p>• 🎤 Professional singer, songwriter, and live performer with <b>Evolette</b> <a href="https://www.instagram.com/evolette_band"><img src="https://img.shields.io/static/v1?label=&message=Band Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p>
+  <p>• 🎤 Professional singer, songwriter, and live performer with <b>Evolette</b> <a href="https://www.instagram.com/evolette_band"><img src="https://img.shields.io/static/v1?label=&message=Band%20Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p>
 </div><br>
 
 ---
