@@ -6,7 +6,7 @@
     <h3>👨🏽‍💻 About me:</h3>
     <p>• 💼 Lead Developer and Head of IT at Spice Media Production GmbH</p>
     <p>• 🌐 Building web applications, APIs, and ERP systems for over 10 years</p>
-    <p>• 📚 Backend specialist with a strong focus on PHP and microservice architectures</p>
+    <p>• 📚 Backend specialist with a strong focus on PHP and microservice architectures, Domain-Driven Design</p>
     <p>• 💡 Creator of open-source libraries and plugins for the development community</p>
     <p>• 💬 Reach me at: <b>mark.taborosi@gmail.com</b></p>
     <p>• 🤝 Always happy to help with coding challenges and Stack Overflow questions</p>
@@ -17,7 +17,8 @@
 <div>
   <h3>🎯 Hobbies:</h3>
   <p>• 🏋️‍♂️ Bodybuilding and fitness</p>
-  <p>• 🎤 Professional singer, songwriter, and live performer with <b>Evolette</b> <a href="https://www.instagram.com/evolette_band"><img src="https://img.shields.io/static/v1?label=&message=Band%20Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p>
+  <p>• 🎤 Professional singer, songwriter, and live performer with <b>Evolette</b> </p><br>
+    <a href="https://www.instagram.com/evolette_band"><img src="https://img.shields.io/static/v1?label=&message=Band%20Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div><br>
 
 ---
