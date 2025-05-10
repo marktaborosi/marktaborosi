@@ -14,6 +14,15 @@
 
 ---
 
+<div align="center">
+    <a href="https://buymeacoffee.com/marktaborosi" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+    </a>
+    <p>If you like my work and want to support my open-source contributions, you can buy me a coffee! ☕</p>
+</div><br>
+
+---
+
 <div>
   <h3>🎯 Hobbies:</h3>
   <p>• 🏋️‍♂️ Bodybuilding and fitness</p>
@@ -45,7 +54,4 @@
 <div>
   <h3>📱 Connect with me:</h3><br>
     <a href="mailto:mark.taborosi@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/mark-taborosi/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://stackoverflow.com/users/5666755/mark"><img src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=F58025&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
-    <a href="https://www.instagram.com/marktaborosi"><img src="https://img.shields.io/static/v1?label=&message=Personal%20Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram"></a>
-</div>
+    <a href="https://www.linkedin.com/in/mark-taborosi/"><img src="https
