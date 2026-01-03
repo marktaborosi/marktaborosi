@@ -10,6 +10,7 @@
     <p>• 💡 Creator of open-source libraries and plugins for the development community</p>
     <p>• 💬 Reach me at: <b>mark.taborosi@gmail.com</b></p>
     <p>• 🤝 Always happy to help with coding challenges and Stack Overflow questions</p>
+    <p>• 👨‍💻 Don't ask for CV, get it <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/m%C3%A1rk-t%C3%A1borosi/6bc9f16b-d944-4a26-987d-68185314d98a?view=html" target="_blank">HERE</a></p>
 </div><br>
 
 ---
