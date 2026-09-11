@@ -10,7 +10,7 @@
     <p>• 💡 Creator of open-source libraries and plugins for the development community</p>
     <p>• 💬 Reach me at: <b>mark.taborosi@gmail.com</b></p>
     <p>• 🤝 Always happy to help with coding challenges and Stack Overflow questions</p>
-    <p>• 👨‍💻 Don't ask for CV, get it <a href="https://europa.eu/europass/eportfolio/screen/share/3009ee59-b09c-4f7b-a4e3-61708a092f6e?lang=en" target="_blank">HERE</a></p>
+    <p>• 👨‍💻 Don't ask for CV, get it <a href="https://europa.eu/europass/eportfolio/screen/share/4ffac99e-1663-4ea0-80bd-3c83a90e6209?lang=en" target="_blank">HERE</a></p>
 
     
 </div><br>
